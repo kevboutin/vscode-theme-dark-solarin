@@ -3,7 +3,7 @@
     "displayName": "Dark-Solarin",
     "publisher": "kevboutin",
     "description": "A dark-themed scheme with darkula inspiration",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "scripts": {
         "publish": "vsce publish"
     },
