@@ -1,0 +1,21 @@
+{
+    "name": "dark-solarin",
+    "displayName": "dark-solarin",
+    "description": "A dark-themed scheme with darkula inspiration",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "dark-solarin",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-solarin-color-theme.json"
+            }
+        ]
+    }
+}
