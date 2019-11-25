@@ -18,15 +18,14 @@ See [CHANGELOG.md](./CHANGELOG.md)
 
 ## Setting
 
-- When installation completes, select **Darcula** as your color theme (Preferences → Workbench: Color Theme → **Darcula**)
+- When installation completes, select **Dark-Solarin** as your color theme (Preferences → Workbench: Color Theme → **Dark-Solarin**)
 
 ## Customizing
 
 - If you want to customize on top of this theme, use vscode's [color customization](https://code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme) feature.  
-  (Related Issue: [#9](https://github.com/rokoroku/vscode-theme-darcula/issues/9), [#15](https://github.com/rokoroku/vscode-theme-darcula/issues/15))
  
 ## Screenshot
 
-![Screenshot](https://github.com/rokoroku/vscode-theme-darcula/raw/master/screenshot.png)
+![Screenshot](https://github.com/kevboutin/vscode-theme-dark-solarin/raw/master/screenshot.png)
 
 **Enjoy!**
