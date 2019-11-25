@@ -51,7 +51,7 @@
 			"name": "String Interpolation Begin and End",
 			"scope": "punctuation.definition.template-expression.begin,punctuation.definition.template-expression.end",
 			"settings": {
-			  "foreground": "#CC8242"
+			  "foreground": "#C78DB1"
 			}
 		},
 		{
@@ -100,7 +100,7 @@
 			"name": "Storage type",
 			"scope": "storage,storage.type,storage.modifier,storage.arrow",
 			"settings": {
-			  "foreground": "#CC8242"
+			  "foreground": "#C78DB1"
 			}
 		},
 		{
@@ -156,7 +156,7 @@
 			"name": "Tag name",
 			"scope": "punctuation.definition.tag.html, punctuation.definition.tag.begin, punctuation.definition.tag.end, entity.name.tag",
 			"settings": {
-			  "foreground": "#FFC66D"
+			  "foreground": "#C78DB1"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"name": "TypeScript Class Modifiers",
 			"scope": "storage.modifier.ts",
 			"settings": {
-			  "foreground": "#CC8242"
+			  "foreground": "#C78DB1"
 			}
 		},
 		{
@@ -440,7 +440,7 @@
 			"name": "Python operators",
 			"scope": "keyword.operator.logical.python",
 			"settings": {
-			  "foreground": "#CC8242"
+			  "foreground": "#C78DB1"
 			}
 		}
 	]
